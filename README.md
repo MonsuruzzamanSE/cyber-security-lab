@@ -1,2 +1,15 @@
-# cyber-security-lab
-Hands-on cyber security lab practice including Kali Linux tools, vulnerability scanning, and network analysis.
+# Cyber Security Lab
+
+This repository contains my cyber security practice labs and notes.
+
+## Tools Used
+- Kali Linux
+- Nmap
+- Wireshark
+- Linux
+
+## Topics Covered
+- Network scanning
+- Vulnerability analysis
+- Traffic monitoring
+- Ethical hacking basics
